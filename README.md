@@ -1,4 +1,4 @@
-deadpixelstudios
+deadpixelstudios.ca
 ================
 
 My GitHub repo
